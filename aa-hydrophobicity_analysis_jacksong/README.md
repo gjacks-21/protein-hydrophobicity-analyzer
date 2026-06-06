@@ -1,6 +1,5 @@
 # Title: Protein Sequence Hydrophobicity and Amino Acid (AA) Composition Analyzer (Python 3)
 - Name: Gloria Jackson
-- UNCC ID: 801115751
 - UNCC Email: gjacks21@charlotte.edu
 
 
